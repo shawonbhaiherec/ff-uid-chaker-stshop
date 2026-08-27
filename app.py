@@ -254,8 +254,8 @@ app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}}, supports_credentials=True)
 
 CREDITS = {
-    "author":  "FFxAPI",
-    "channel": "https://t.me/FFxAPI",
+    "author":  "ST-SHOP",
+    "channel": "https://t.me/ST_SHOP_121",
 }
 
 def _ok(data, cached=False):
